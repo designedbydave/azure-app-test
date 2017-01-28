@@ -1,0 +1,10 @@
+{
+    "name": "davidlam/azure-app-test",
+    "authors": [
+        {
+            "name": "David Lam",
+            "email": "dave.lam@designedbydave.ca"
+        }
+    ],
+    "require": {}
+}
